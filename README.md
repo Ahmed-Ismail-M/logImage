@@ -43,7 +43,7 @@ OUTPUT_FOLDER = "path/to/custom/output/folder"
 4. Processed images will be saved in the `output/` folder (or the configured path).
 
 ## Acknowledgments
-- Thanks to open-source AI models for background removal.
+- Thanks to open-source rembg for background removal https://github.com/danielgatis/rembg?tab=readme-ov-file.
 - Community contributors for enhancements and bug fixes.
 
 ---
