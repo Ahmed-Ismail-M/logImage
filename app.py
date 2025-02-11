@@ -15,8 +15,8 @@ def remove_image(image_bytes, session):
 def main():
     st.set_page_config(page_title="Image Removal Tool", page_icon=":camera:", layout="centered")
 
-    st.title("Image Removal Tool")
-    st.markdown("Upload your `.webp, .jpg , png` images to remove unwanted elements.")
+    st.title("Image Background Removal Tool")
+    st.markdown("Upload your `.webp, .jpg , png` images to remove background.")
 
     # File uploader
     uploaded_files = st.file_uploader("Upload .webp .png .jpg images", type=[
