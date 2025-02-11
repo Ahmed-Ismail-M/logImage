@@ -1,6 +1,4 @@
-# logImage
-
-# Background Remover UI
+# logImage - Background Remover UI
 
 An open-source web application that allows users to remove backgrounds from multiple images using a simple drag-and-drop interface. Processed images are saved in an output folder, which can be configured from the constants file.
 
