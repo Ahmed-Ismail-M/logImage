@@ -12,7 +12,7 @@ An open-source web application that allows users to remove backgrounds from mult
 
 ### Prerequisites
 Ensure you have the following installed on your system:
-- Python 3.x
+- Python 3.10x
 - Required dependencies (listed in `requirements.txt`)
 
 ### Steps
